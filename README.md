@@ -19,12 +19,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](./images/Frontend%20Mentor%20_%20Results%20summary%20component.png) 
+![](./images/Frontend%20Mentor%20_%20Product%20preview%20card%20component.png) 
 
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-using-html-and-css-tqaGhmCZ8O
-- Live page: https://corrine2212.github.io/result-summary-component/
+- Live page: https://corrine2212.github.io/preview-product-card-component/
 
 ## My process
 
